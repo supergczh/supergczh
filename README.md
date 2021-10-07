@@ -5,10 +5,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 28 mins    ███████▓░░░░░░░░░░░░░░░░░   30.87 % 
-Vue.js       1 hr 8 mins     ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Cheetah      50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 % 
-JSON         28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-LESS         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
