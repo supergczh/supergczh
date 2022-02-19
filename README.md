@@ -5,8 +5,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 30 hrs 23 mins
-
 JavaScript   16 hrs 20 mins  █████████████▒░░░░░░░░░░░   53.76 % 
 Vue.js       5 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.85 % 
 LESS         3 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
