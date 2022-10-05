@@ -6,12 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-LESS         2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.91 %
-Vue.js       1 hr 57 mins    ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-JavaScript   1 hr 41 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-JSON         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-PHP          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
